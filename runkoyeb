@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo "!!!   Starting to Run NobiUb on Koyeb   !!!"
+python3 -m TelethonNobi
